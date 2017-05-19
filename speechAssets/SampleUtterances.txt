@@ -1,28 +1,28 @@
-AlexaMeetUpNumbers how many cities have alexa meetups
-AlexaMeetUpNumbers how many alexa meetups are there
+AlexaMeetUpNumbers Alexa ask group finder how many cities have alexa meetups
+AlexaMeetUpNumbers Alexa ask group finder how many alexa meetups are there
 
-AlexaMeetupCityCheck if {USCity} has an alexa meetup
-AlexaMeetupCityCheck if {EuropeanCity} has an alexa meetup
-AlexaMeetupCityCheck does {USCity} has an alexa meetup
-AlexaMeetupCityCheck does {EuropeanCity} has an alexa meetup
-AlexaMeetupCityCheck check {USCity}
-AlexaMeetupCityCheck check {EuropeanCity}
+AlexaMeetupCityCheck Alexa ask group finder if {USCity} has an alexa meetup
+AlexaMeetupCityCheck Alexa ask group finder if {EuropeanCity} has an alexa meetup
+AlexaMeetupCityCheck Alexa ask group finder does {USCity} has an alexa meetup
+AlexaMeetupCityCheck Alexa ask group finder does {EuropeanCity} has an alexa meetup
+AlexaMeetupCityCheck Alexa ask group finder check {USCity}
+AlexaMeetupCityCheck Alexa ask group finder check {EuropeanCity}
 
-AlexaMeetupOrganizerCheck whos the organizer of the {USCity} alexa meetup
-AlexaMeetupOrganizerCheck whos the organizer of the {EuropeanCity} alexa meetup
-AlexaMeetupOrganizerCheck who is the organizer of the {USCity} alexa meetup
-AlexaMeetupOrganizerCheck who is the organizer of the {EuropeanCity} alexa meetup
-AlexaMeetupOrganizerCheck tell me the organizer of the {USCity} alexa meetup
-AlexaMeetupOrganizerCheck tell me organizer of the {EuropeanCity} alexa meetup
+AlexaMeetupOrganizerCheck Alexa ask group finder whos the organizer of the {USCity} alexa meetup
+AlexaMeetupOrganizerCheck Alexa ask group finder whos the organizer of the {EuropeanCity} alexa meetup
+AlexaMeetupOrganizerCheck Alexa ask group finder who is the organizer of the {USCity} alexa meetup
+AlexaMeetupOrganizerCheck Alexa ask group finder who is the organizer of the {EuropeanCity} alexa meetup
+AlexaMeetupOrganizerCheck Alexa ask group finder tell me the organizer of the {USCity} alexa meetup
+AlexaMeetupOrganizerCheck Alexa ask group finder tell me organizer of the {EuropeanCity} alexa meetup
 
-AlexaMeetupMembersCheck how many members does the {USCity} alexa meetup have
-AlexaMeetupMembersCheck hoy many members does the {EuropeanCity} alexa meetup have
-AlexaMeetupMembersCheck how many people does the {USCity} alexa meetup have
-AlexaMeetupMembersCheck hoy many people does the {EuropeanCity} alexa meetup have
-AlexaMeetupMembersCheck how big is the {USCity} alexa meetup have
-AlexaMeetupMembersCheck how big is the {EuropeanCity} alexa meetup have
+AlexaMeetupMembersCheck Alexa ask group finder how many members does the {USCity} alexa meetup have
+AlexaMeetupMembersCheck Alexa ask group finder how many members does the {EuropeanCity} alexa meetup have
+AlexaMeetupMembersCheck Alexa ask group finder how many people does the {USCity} alexa meetup have
+AlexaMeetupMembersCheck Alexa ask group finder how many people does the {EuropeanCity} alexa meetup have
+AlexaMeetupMembersCheck Alexa ask group finder how big is the {USCity} alexa meetup have
+AlexaMeetupMembersCheck Alexa ask group finder how big is the {EuropeanCity} alexa meetup have
 
-AlexaNextMeetupCheck when's the next {USCity} alexa meetup
-AlexaNextMeetupCheck when's the next {EuropeanCity} alexa meetup
-AlexaNextMeetupCheck when is the next {USCity} alexa meetup
-AlexaNextMeetupCheck when is the next {EuropeanCity} alexa meetup
+AlexaNextMeetupCheck Alexa ask group finder when's the next {USCity} alexa meetup
+AlexaNextMeetupCheck Alexa ask group finder when's the next {EuropeanCity} alexa meetup
+AlexaNextMeetupCheck Alexa ask group finder when is the next {USCity} alexa meetup
+AlexaNextMeetupCheck Alexa ask group finder when is the next {EuropeanCity} alexa meetup
